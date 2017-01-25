@@ -1,3 +1,3 @@
 # hello-world
-hello github
+# hello github
 ## the first line for my github
